@@ -72,7 +72,7 @@ class MainActivity : Activity() {
             orientation = LinearLayout.VERTICAL
             gravity = Gravity.CENTER_VERTICAL or Gravity.END
             setPadding(20, 20, 20, 20)
-            setBackground(rounded(Color.rgb(11, 17, 29)))
+            setBackground(rounded(Color.rgb(11, 17, 29))
         }
 
         expressionView = TextView(this).apply {
