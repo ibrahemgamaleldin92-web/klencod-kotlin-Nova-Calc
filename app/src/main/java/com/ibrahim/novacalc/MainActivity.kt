@@ -244,3 +244,4 @@ class MainActivity : Activity() {
             .stripTrailingZeros()
             .toPlainString()
     }
+}

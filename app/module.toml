@@ -15,8 +15,8 @@ res = ["src/main/res"]
 [android]
 namespace = "com.ibrahim.novacalc"
 compileSdk = 34
-minSdk = 21
-targetSdk = 21
+minSdk = 24
+targetSdk = 34
 manifest = "src/main/AndroidManifest.xml"
 versionCode = 1
 versionName = "1.0"
